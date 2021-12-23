@@ -9,3 +9,8 @@
     (for [head coll
           tail (permutations (disj (set coll) head))]
       (cons head tail))))
+
+(defn println-ret [v]
+  (println v)
+  v)
+

@@ -7,4 +7,4 @@
                  [instaparse "1.4.10"]
                  [aysylu/loom "1.0.2"]
                  [net.mikera/core.matrix "0.62.0"]]
-  :repl-options {:init-ns advent-of-code-2021.day15})
+  :repl-options {:init-ns advent-of-code-2021.day16})
